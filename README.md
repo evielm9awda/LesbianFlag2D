@@ -1,6 +1,7 @@
 # LesbianFlag2D
 
 A 2D visualization of the Lesbian Pride Flag using C programming.
+⚠️ To use this program, ensure that Raylib is installed on your system.
 
 ### Compiling
 #### Debian
